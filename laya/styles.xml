@@ -1,0 +1,10 @@
+<res>   
+   <item name="comp/button.png" type="Button" compress="0" pack="0" quality="80" props="labelSize=28@@!@@labelFont=SimHei@@!@@labelColors=#fff,#fff,#e7ce4e@@!@@sizeGrid=14,16,15,19@@!@@width=160@@!@@labelPadding=0,0,1,0" picType="0" scale="0"/>
+   <item name="d3" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="package" type="" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="bitmapfont/gongfang.png" type="Sprite" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="bg/btn_Bg.png" type="Button" compress="0" pack="0" quality="80" props="labelSize=28@@!@@labelFont=SimHei@@!@@labelColors=#000000,#000000,#e7ce4e@@!@@width=160@@!@@labelPadding=0,0,1,0" picType="0" scale="0"/> 
+   <item name="role/spineAni" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="role/frameAni" type="" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="role/atlasAni" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+</res>

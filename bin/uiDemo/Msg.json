@@ -1,0 +1,1 @@
+{"type":"View","props":{"y":0,"x":0,"width":1334,"runtime":"scence/uiDemo/MsgRT.js","height":600,"centerX":0},"compId":2,"child":[{"type":"Label","props":{"y":175,"x":500,"var":"msgLab","strokeColor":"#ffffff","stroke":2,"fontSize":25,"font":"SimHei","color":"#fd0400","bold":true},"compId":3}],"loadList":[],"loadList3D":[]}

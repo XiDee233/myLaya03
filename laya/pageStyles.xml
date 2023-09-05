@@ -1,0 +1,37 @@
+<page>
+   <item name="physicsDemo/PhysicsGameMain.scene" props="" ifExport="分离模式" aName="物理游戏入口"/>
+   <item name="Index.scene" props="" ifExport="文件模式" aName="Demo索引入口"/>
+   <item name="d3Demo/UiMain.scene" props="" ifExport="分离模式" aName="UI-Demo入口"/>
+   <item name="d3Demo/D3Main.scene" props="" ifExport="文件模式" aName="3D混合Demo入口"/>
+   <item name="uiDemo/UiMain.scene" props="" ifExport="分离模式" aName="UI入口"/>
+   <item name="uiDemo/list/BagList.scene" props="" ifExport="分离模式" aName="背包列表"/>
+   <item name="uiDemo/list/MailList.scene" props="" ifExport="分离模式" aName="邮件列表"/>
+   <item name="uiDemo/Dialog.scene" props="" ifExport="分离模式" aName="弹窗"/>
+   <item name="uiDemo/Msg.scene" props="" ifExport="分离模式" aName="消息提示"/>
+   <item name="uiDemo/list/Refresh.scene" props="" ifExport="分离模式" aName="拉动刷新列表"/>
+   <item name="uiDemo/list/LoopList.scene" props="" ifExport="分离模式" aName="循环列表"/>
+   <item name="uiDemo/interactive/MouseEvent.scene" props="" ifExport="分离模式" aName="鼠标事件穿透"/>
+   <item name="uiDemo/list/ComboBox.scene" props="" ifExport="分离模式" aName="下拉框列表"/>
+   <item name="uiDemo/list/TreeList.scene" props="" ifExport="分离模式" aName="树状列表"/>
+   <item name="uiDemo/list/TreeBox.scene" props="" ifExport="默认" aName="树状列表的渲染单元"/>
+   <item name="uiDemo/interactive/Joystick.scene" props="" ifExport="分离模式" aName="虚拟摇杆"/>
+   <item name="uiDemo/useUI/Progress.scene" props="" ifExport="分离模式" aName="进度条"/>
+   <item name="Loading.scene" props="" ifExport="分离模式" aName="加载页"/>
+   <item name="uiDemo/useUI/TextShow.scene" props="" ifExport="分离模式" aName="文本展示"/>
+   <item name="uiDemo/useUI/MouseThrough.scene" props="" ifExport="分离模式" aName="鼠标穿透"/>
+   <item name="uiDemo/useUI/ChangeTexture.scene" props="" ifExport="分离模式" aName="纹理替换"/>
+   <item name="uiDemo/useUI/ShapeDetection.scene" props="" ifExport="分离模式" aName="形状检测"/>
+   <item name="uiDemo/interactive/ShapeDetection.scene" props="" ifExport="分离模式" aName="图形碰撞检测"/>
+   <item name="uiDemo/useUI/PhysicalCollision.scene" props="" ifExport="分离模式" aName="物理碰撞"/>
+   <item name="uiDemo/useUI/Mask.scene" props="" ifExport="分离模式" aName="遮罩效果"/>
+   <item name="uiDemo/animation/AtlasAni.scene" props="" ifExport="分离模式" aName="图集动画"/>
+   <item name="uiDemo/animation/FrameAni.scene" props="" ifExport="分离模式" aName="逐帧动画"/>
+   <item name="uiDemo/animation/TimelineAni.scene" props="" ifExport="分离模式" aName="时间轴动画"/>
+   <item name="uiDemo/animation/SkeletonAni.scene" props="" ifExport="默认" aName="骨骼动画"/>
+   <item name="uiDemo/animation/TweenAni.scene" props="" ifExport="分离模式" aName="缓动动画"/>
+   <item name="uiDemo/animation/AniEffect.scene" props="" ifExport="分离模式" aName="动效"/>
+   <item name="uiDemo/page/UsePanel.scene" props="" ifExport="分离模式" aName="使用Panel"/>
+   <item name="uiDemo/page/OpenScene.scene" props="" ifExport="分离模式" aName="打开小窗口"/>
+   <item name="uiDemo/page/OpenMainScene.scene" props="" ifExport="分离模式" aName="打开全屏场景"/>
+   <item name="uiDemo/page/IframeElement.scene" props="" ifExport="分离模式" aName="嵌套网页"/>
+</page>

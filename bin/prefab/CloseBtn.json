@@ -1,0 +1,1 @@
+{"type":"Button","props":{"y":0,"x":0,"top":5,"skin":"comp/btn_close.png","right":5,"presetID":1,"isPresetRoot":true},"compId":2,"child":[{"type":"Script","props":{"presetID":3,"runtime":"prefab/CloseBtn.js"},"compId":4}],"loadList":["comp/btn_close.png"],"loadList3D":[]}

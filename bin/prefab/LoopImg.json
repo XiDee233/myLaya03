@@ -1,0 +1,1 @@
+{"type":"Image","props":{"y":0,"x":0,"width":256,"presetID":1,"isPresetRoot":true,"height":256},"compId":2,"child":[{"type":"Script","props":{"presetID":2,"runtime":"prefab/LoopImg.js"},"compId":3}],"loadList":[],"loadList3D":[]}

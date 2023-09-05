@@ -1,0 +1,490 @@
+{
+	"bagList": [
+		{
+			"listItemImg": {
+				"skin": "bag/0.png"
+			},
+			"listItemNumber": {
+				"text": 79
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/1.png"
+			},
+			"listItemNumber": {
+				"text": 27
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/2.png"
+			},
+			"listItemNumber": {
+				"text": 63
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/3.png"
+			},
+			"listItemNumber": {
+				"text": 28
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/4.png"
+			},
+			"listItemNumber": {
+				"text": 86
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/5.png"
+			},
+			"listItemNumber": {
+				"text": 71
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/6.png"
+			},
+			"listItemNumber": {
+				"text": 93
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/7.png"
+			},
+			"listItemNumber": {
+				"text": 93
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/8.png"
+			},
+			"listItemNumber": {
+				"text": 47
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/9.png"
+			},
+			"listItemNumber": {
+				"text": 44
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/10.png"
+			},
+			"listItemNumber": {
+				"text": 35
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/11.png"
+			},
+			"listItemNumber": {
+				"text": 12
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/12.png"
+			},
+			"listItemNumber": {
+				"text": 65
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/13.png"
+			},
+			"listItemNumber": {
+				"text": 5
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/14.png"
+			},
+			"listItemNumber": {
+				"text": 18
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/15.png"
+			},
+			"listItemNumber": {
+				"text": 35
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/16.png"
+			},
+			"listItemNumber": {
+				"text": 72
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/17.png"
+			},
+			"listItemNumber": {
+				"text": 2
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/18.png"
+			},
+			"listItemNumber": {
+				"text": 17
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/19.png"
+			},
+			"listItemNumber": {
+				"text": 97
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/20.png"
+			},
+			"listItemNumber": {
+				"text": 6
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/21.png"
+			},
+			"listItemNumber": {
+				"text": 23
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/22.png"
+			},
+			"listItemNumber": {
+				"text": 27
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/23.png"
+			},
+			"listItemNumber": {
+				"text": 80
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/24.png"
+			},
+			"listItemNumber": {
+				"text": 75
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/25.png"
+			},
+			"listItemNumber": {
+				"text": 83
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/26.png"
+			},
+			"listItemNumber": {
+				"text": 74
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/27.png"
+			},
+			"listItemNumber": {
+				"text": 92
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/28.png"
+			},
+			"listItemNumber": {
+				"text": 79
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/29.png"
+			},
+			"listItemNumber": {
+				"text": 93
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/30.png"
+			},
+			"listItemNumber": {
+				"text": 22
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/31.png"
+			},
+			"listItemNumber": {
+				"text": 6
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/32.png"
+			},
+			"listItemNumber": {
+				"text": 38
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/33.png"
+			},
+			"listItemNumber": {
+				"text": 26
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/34.png"
+			},
+			"listItemNumber": {
+				"text": 67
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/35.png"
+			},
+			"listItemNumber": {
+				"text": 72
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/36.png"
+			},
+			"listItemNumber": {
+				"text": 41
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/37.png"
+			},
+			"listItemNumber": {
+				"text": 57
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/38.png"
+			},
+			"listItemNumber": {
+				"text": 49
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/39.png"
+			},
+			"listItemNumber": {
+				"text": 33
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/40.png"
+			},
+			"listItemNumber": {
+				"text": 84
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/41.png"
+			},
+			"listItemNumber": {
+				"text": 59
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/42.png"
+			},
+			"listItemNumber": {
+				"text": 73
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/43.png"
+			},
+			"listItemNumber": {
+				"text": 49
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/44.png"
+			},
+			"listItemNumber": {
+				"text": 34
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/45.png"
+			},
+			"listItemNumber": {
+				"text": 89
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/46.png"
+			},
+			"listItemNumber": {
+				"text": 34
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/47.png"
+			},
+			"listItemNumber": {
+				"text": 64
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/48.png"
+			},
+			"listItemNumber": {
+				"text": 12
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/49.png"
+			},
+			"listItemNumber": {
+				"text": 64
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/50.png"
+			},
+			"listItemNumber": {
+				"text": 81
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/51.png"
+			},
+			"listItemNumber": {
+				"text": 54
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/52.png"
+			},
+			"listItemNumber": {
+				"text": 53
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		},
+		{
+			"listItemImg": {
+				"skin": "bag/53.png"
+			},
+			"listItemNumber": {
+				"text": 55
+			},
+			"readme": "宝物说明, 此处省略100字…………………………"
+		}
+	]
+}
